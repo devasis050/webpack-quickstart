@@ -1,0 +1,1 @@
+(()=>{"use strict";let e={key:"value",key2:"value2",key3:"value3"};console.log(e.key),console.log(e.key2),console.log(e.key3)})();
